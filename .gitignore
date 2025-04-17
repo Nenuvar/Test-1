@@ -22,6 +22,7 @@ rules/
 .obsidian/app.json
 .obsidian/appearance.json
 .obsidian/graph.json
+.obsidian/workspace-mobile.json
 
 # ------------------------
 # Obsidian plugin-related files to track
