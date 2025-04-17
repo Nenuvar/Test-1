@@ -2,6 +2,7 @@
 # OS/System files
 # ------------------------
 .DS_Store
+.trash
 Thumbs.db
 *.log
 *.tmp
